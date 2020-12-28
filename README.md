@@ -1,13 +1,10 @@
-# MIPS-Assembly-Algorithms
+# Binary Search in Assembly Language
 
-These are a collection of Algorithms and programs implemented in Assembly Language. 
+Iterative solution for the Divide and Conquer Binary Search Algorithm. Prompts the User to imput an array of size 1 &lt;= n &lt;= 20 with the precondition that the array is already sorted in ascending order. User is then asked for an element to search. The algorithm divides and conquers this array to see if the element is present and outputs whether or not it was found and if found, where in the array it was found.
 
 - Written in **Assembly Language** for the **MIPS** Architecture.
 - Written, Tested and Simulated using **MARS MIPS Simulator** ([MSU](http://courses.missouristate.edu/kenvollmar/mars/))
 
-## Binary Search
-
-Iterative solution for the Divide and Conquer Binary Search Algorithm. Prompts the User to imput an array of size 1 &lt;= n &lt;= 20 with the precondition that the array is already sorted in ascending order. User is then asked for an element to search. The algorithm divides and conquers this array to see if the element is present and outputs whether or not it was found and if found, where in the array it was found.
 #### Code Snippet:
 
 ```assembly
