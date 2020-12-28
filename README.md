@@ -1,6 +1,6 @@
 # MIPS-Assembly-Algorithms
 
-These are a collection of Algorithms and programs inplemented in Assembly Language. 
+These are a collection of Algorithms and programs implemented in Assembly Language. 
 
 - Written in **Assembly Language** for the **MIPS** Architecture.
 - Written, Tested and Simulated using **MARS MIPS Simulator** ([MSU](http://courses.missouristate.edu/kenvollmar/mars/))
