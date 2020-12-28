@@ -1,4 +1,4 @@
-# Binary Search in Assembly Language
+# Binary Search in Assembly Language 🖥️🔍
 
 Iterative solution for the Divide and Conquer Binary Search Algorithm. Prompts the User to imput an array of size 1 &lt;= n &lt;= 20 with the precondition that the array is already sorted in ascending order. User is then asked for an element to search. The algorithm divides and conquers this array to see if the element is present and outputs whether or not it was found and if found, where in the array it was found.
 
